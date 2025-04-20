@@ -6,7 +6,7 @@ Currently I'm working on:
 - SplatRef, a local moodboard creation webapp built with NextJS and WebGL, with a online backend in Spring Boot / Java (online backend is not hosted). Also has support for multitouch zoom!: [Link](https://splat-ref.vercel.app/) 
   ![image](https://github.com/user-attachments/assets/ecc50122-720b-458c-92d7-17c11372e913)
 
-- Arcadey flight combat game in Godot Mono, mainly written in C#: [Video](https://www.youtube.com/watch?v=ngbQVEUJIdU)
+- Arcadey flight combat game in Godot .NET, mainly written in C#: [Video](https://www.youtube.com/watch?v=ngbQVEUJIdU)
   ![image](https://github.com/user-attachments/assets/968edcb9-8f9f-410d-81ba-91cd9e7c05ed)
 
 
